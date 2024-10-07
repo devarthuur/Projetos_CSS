@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Desktop/Fundamentos_HTML"
+		},
+		{
+			"path": "../../../Desktop/JavaScript-Modulo1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript-Modulo1"
+	}
+}

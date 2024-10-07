@@ -1,0 +1,28 @@
+* { 
+    margin:  0;
+    padding: 0;
+}
+
+h1 {
+    margin: 32px;
+    padding: 10px;
+    background-color: #1c1a1d;
+    color: aliceblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    background-color: #1c1a1d;
+    border: 4px solid transparent;
+    border-radius: 4px;
+    color: aliceblue;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 42px;
+    padding: 42px;
+    height: 250px;
+    width: 400px;
+}
